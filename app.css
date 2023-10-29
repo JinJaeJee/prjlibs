@@ -1,0 +1,18 @@
+#map {
+    width: 90%;
+    height: 20rem;
+    border: 1px solid #ccc;
+    /* marginกรอบข้างนอกdiv */
+    margin: 2rem auto;
+    display: flex;
+    /* justify-content คือ ลูกทั้งหมดในdivตรงกลางซ้ายขวา */
+    justify-content: center;
+    /* align-items คือ ลูกมาอยู่กลางกึ่งกลางdiv บนล่าง */
+    align-items: center;
+    text-align: center;
+}
+
+form{
+    text-align: center;
+    margin: 2rem auto;
+}
